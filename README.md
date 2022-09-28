@@ -3,10 +3,10 @@
 basic Discrete Fourier Transform (DFT), Fast Fourier Transform (FFT) and Short-Time Fourier Transform (STFT) implementations;
 
 use this command line:
-<code>python main.py <filename> <algorithm></code>
+<code>python main.py \<filename\> \<algorithm\></code>
 to graph desired algorithms, for example:
 
-<code>python main.py <filename> stft</code>
+<code>python main.py \<filename\> stft</code>
 
 for STFT spectrogram on that file.
 
