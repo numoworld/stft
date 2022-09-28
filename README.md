@@ -20,17 +20,18 @@ NOTE: in order for DFT to not flood your memory, it slices signal to only first 
 Some examples:
 
 **DFT**: <br>
-<code>python main.py sound.wav dft</code><br><br>
+<code>python main.py sound.wav dft</code><br> <br>
 output:<br>
-![image](https://user-images.githubusercontent.com/32400447/192854514-eb664db9-2c77-45f8-838f-ed6bb8e7bc23.png) <br>
+![image](https://user-images.githubusercontent.com/32400447/192854514-eb664db9-2c77-45f8-838f-ed6bb8e7bc23.png) <br><br>
 
-<br>
+
+
 **FFT**:<br>
 <code>python main.py sound.wav fft</code><br><br>
 output:<br>
-![image](https://user-images.githubusercontent.com/32400447/192854692-6dd31e00-135b-4e19-9999-f8c91ffa4717.png) <br>
+![image](https://user-images.githubusercontent.com/32400447/192854692-6dd31e00-135b-4e19-9999-f8c91ffa4717.png) <br><br>
 
-<br>
+
 **STFT**:<br>
 <code>python main.py sound.wav stft</code><br><br>
 output:<br>
